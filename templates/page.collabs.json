@@ -1,0 +1,389 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "43fa10dd-a823-4abc-b77e-6edea0eeec6c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19384255578441__43fa10dd-a823-4abc-b77e-6edea0eeec6c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Creator Program is currently Closed!",
+            "heading_size": "h1"
+          }
+        },
+        "template--19384255578441__43fa10dd-a823-4abc-b77e-6edea0eeec6c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Thank You everyone for applying, and future affiliates for your consideration.<br/>As much as We would love to see more of You, too many at once and It'll all begin to Crumble.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--19384255578441__43fa10dd-a823-4abc-b77e-6edea0eeec6c-heading-1",
+        "template--19384255578441__43fa10dd-a823-4abc-b77e-6edea0eeec6c-text-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Sf34c15d5552a4258969c75460397e50aV.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "background-1",
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
+    },
+    "image_with_text_ATg3pY": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_zj4ydq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Come Join The Community",
+            "heading_size": "h1"
+          }
+        },
+        "text_pyjaDX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Find out everything first hand and Hangout in Discord, Join the Community Nights, Post and share your content in the social channels and more..</p>",
+            "text_style": "body"
+          }
+        },
+        "caption_4BgRRW": {
+          "type": "caption",
+          "settings": {
+            "caption": "Well? are You an Anime Gamer or not?",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "button_7R6LUT": {
+          "type": "button",
+          "settings": {
+            "button_label": "Join Discord",
+            "button_link": "https://discord.gg/cM9kbG6twf",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_zj4ydq",
+        "text_pyjaDX",
+        "caption_4BgRRW",
+        "button_7R6LUT"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/four-way-fist-bump-at-work.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "background-1",
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
+    },
+    "newsletter_mb4U6y": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_ML4bWt": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join the Waitlist",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_wUhNDp": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know when our creator program resumes!</p>"
+          }
+        },
+        "email_form_3hxhwr": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_ML4bWt",
+        "paragraph_wUhNDp",
+        "email_form_3hxhwr"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "bf6cbb54-e47c-4fc3-860b-4c2851d72a01": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19384255578441__bf6cbb54-e47c-4fc3-860b-4c2851d72a01-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Share your referral link!",
+            "heading_size": "h1"
+          }
+        },
+        "template--19384255578441__bf6cbb54-e47c-4fc3-860b-4c2851d72a01-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>An affiliate code is a great way to weaponise positive Search rankings, by sharing your referral code and referral link, you are creating relational backlinking not only to us, but to your own socials too!! WIN WIN.</p>",
+            "text_style": "subtitle"
+          }
+        },
+        "template--19384255578441__bf6cbb54-e47c-4fc3-860b-4c2851d72a01-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "https://api.collabs.shopify.com/creator/signup/community_application/Cy72rUjW3AE?origin=THEME_EXTENSION",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "template--19384255578441__bf6cbb54-e47c-4fc3-860b-4c2851d72a01-heading-1",
+        "template--19384255578441__bf6cbb54-e47c-4fc3-860b-4c2851d72a01-text-1",
+        "template--19384255578441__bf6cbb54-e47c-4fc3-860b-4c2851d72a01-button-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/hiclipart.com_3.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "inverse",
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
+    },
+    "cd01435a-d9e9-43b8-9834-518b4c04ea45": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19384255578441__cd01435a-d9e9-43b8-9834-518b4c04ea45-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get Paid for",
+            "heading_size": "h1"
+          }
+        },
+        "template--19384255578441__cd01435a-d9e9-43b8-9834-518b4c04ea45-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>As an Affiliate you automatically get 10% off across everything.<br/>Anyone that uses your referral code receives 10% off.<br/>The bigger the team the more you make</p><h6><br/>(Starting commission rate is 10%)</h6>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "template--19384255578441__cd01435a-d9e9-43b8-9834-518b4c04ea45-heading-1",
+        "template--19384255578441__cd01435a-d9e9-43b8-9834-518b4c04ea45-text-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/hiclipart.com_4.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "background-1",
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
+    "collabs": {
+      "type": "apps",
+      "blocks": {
+        "2aaa783f-5bc9-40ab-a323-4c899cd90c17": {
+          "type": "shopify://apps/collabs/blocks/application-page/54758706-9f25-4fa9-a553-64720a4c998b",
+          "settings": {
+            "heading": "Let’s work together!",
+            "show_square_logo": false,
+            "show_partnership_info": false,
+            "button_text": "Apply now",
+            "number_of_images": "4",
+            "logo_position": "below",
+            "corner_style": "circle",
+            "button_background_color": "#ef8f75",
+            "button_label_color": "#ffffff",
+            "link_color": "#2c6ecb"
+          }
+        }
+      },
+      "block_order": [
+        "2aaa783f-5bc9-40ab-a323-4c899cd90c17"
+      ],
+      "disabled": true,
+      "settings": {
+        "include_margins": false
+      }
+    },
+    "d50f4d6d-a7da-4cc0-b7b4-4eaa135e2d7d": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19384255578441__d50f4d6d-a7da-4cc0-b7b4-4eaa135e2d7d-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/money-stock-photography-maneki-neko-royalty-free-cat-bite-cute-fat-cat-money-71604b831c27081dc6ac21f526a01d91.png",
+            "title": "Lifetime Commissions",
+            "text": "<p>Get Rewarded for your Support and Loyalty with a lifetime commission cut of all referred sales up to 20%..</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19384255578441__d50f4d6d-a7da-4cc0-b7b4-4eaa135e2d7d-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/computer-icons-google-calendar-time-attendance-clocks-calendar-date-others-a1f7449cb1e3b5acea522af3774234e6.png",
+            "title": "Referral Sessions",
+            "text": "<p>Long Life Referral Sessions mean You are rewarded for referrals complete within 90 Days...</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19384255578441__d50f4d6d-a7da-4cc0-b7b4-4eaa135e2d7d-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/hiclipart.com_1.png",
+            "title": "No Sign-up cost",
+            "text": "<p>No hidden costs, No Surprises, No Fine Print..<br/>Just Quick Questionnaire to determine our chemistry, 10 Questions and not another more...</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "cb6b9547-0020-4e0a-a663-4971bb51acde": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/hiclipart.com_2.png",
+            "title": "Tracking and Analytics",
+            "text": "<p>Find out how your referrals are performing and make critical changes where you think necessary!</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19384255578441__d50f4d6d-a7da-4cc0-b7b4-4eaa135e2d7d-column-1",
+        "template--19384255578441__d50f4d6d-a7da-4cc0-b7b4-4eaa135e2d7d-column-2",
+        "template--19384255578441__d50f4d6d-a7da-4cc0-b7b4-4eaa135e2d7d-column-3",
+        "cb6b9547-0020-4e0a-a663-4971bb51acde"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Why become an Affiliate?",
+        "heading_size": "h0",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "inverse",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 68,
+        "padding_bottom": 100
+      }
+    },
+    "681ecc0b-2d87-4910-9e4f-c293e274b263": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--19384255578441__681ecc0b-2d87-4910-9e4f-c293e274b263-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the requirements to become an affiliate?",
+            "icon": "question_mark",
+            "row_content": "<p>To continue support of an ethos in helping new and upcoming streamers, We are utilising guideline recommendations..<br/>It's not always numbers that make the sales but hard work and dedication..</p>",
+            "page": ""
+          }
+        },
+        "template--19384255578441__681ecc0b-2d87-4910-9e4f-c293e274b263-collapsible_row-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I'm outside of the eligible area of becoming an affiliate. What Now?",
+            "icon": "question_mark",
+            "row_content": "<p>This creator program is open to everyone, anyone can apply, Not everyone will align with our views and vision for the future and that's what we watch out for... Don't worry.</p>",
+            "page": ""
+          }
+        },
+        "template--19384255578441__681ecc0b-2d87-4910-9e4f-c293e274b263-collapsible_row-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do affiliate payments work?",
+            "icon": "question_mark",
+            "row_content": "<p>When a product is purchased using your affiliate link, the commission for it is marked as pending for 30 days to make sure the order is not refunded.  We will confirm all payments on the 1st of every month, for which You can then withdraw..</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19384255578441__681ecc0b-2d87-4910-9e4f-c293e274b263-collapsible_row-1",
+        "template--19384255578441__681ecc0b-2d87-4910-9e4f-c293e274b263-collapsible_row-2",
+        "template--19384255578441__681ecc0b-2d87-4910-9e4f-c293e274b263-collapsible_row-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FAQ",
+        "heading_size": "h0",
+        "heading_alignment": "left",
+        "layout": "row",
+        "container_color_scheme": "scheme-4fd49085-19b5-4f9c-a8e7-0b7ca02f104b",
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "small",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "43fa10dd-a823-4abc-b77e-6edea0eeec6c",
+    "image_with_text_ATg3pY",
+    "newsletter_mb4U6y",
+    "bf6cbb54-e47c-4fc3-860b-4c2851d72a01",
+    "cd01435a-d9e9-43b8-9834-518b4c04ea45",
+    "collabs",
+    "d50f4d6d-a7da-4cc0-b7b4-4eaa135e2d7d",
+    "681ecc0b-2d87-4910-9e4f-c293e274b263"
+  ]
+}

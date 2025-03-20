@@ -1,0 +1,162 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "d1c177f0-8193-4b93-aaad-98b0048d5042": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16911548842282__d1c177f0-8193-4b93-aaad-98b0048d5042-1668183779e8f7c3cc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Niyo",
+            "heading_size": "h1"
+          }
+        },
+        "template--16911548842282__d1c177f0-8193-4b93-aaad-98b0048d5042-1668183779e8f7c3cc-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "subtitle"
+          }
+        },
+        "template--16911548842282__d1c177f0-8193-4b93-aaad-98b0048d5042-1668183779e8f7c3cc-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16911548842282__d1c177f0-8193-4b93-aaad-98b0048d5042-1668183779e8f7c3cc-0",
+        "template--16911548842282__d1c177f0-8193-4b93-aaad-98b0048d5042-1668183779e8f7c3cc-1",
+        "template--16911548842282__d1c177f0-8193-4b93-aaad-98b0048d5042-1668183779e8f7c3cc-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Peach_and_Brown_Elegant_Make_Up_Artist_Logo_1_58709ddd-4745-4905-88ab-cd4fae3cd139.png",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "8e566ec4-772f-460a-898e-91d21fb323e9": {
+      "type": "multicolumn",
+      "blocks": {
+        "94822225-c7c5-46ba-ad44-a8992560865d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/6318fd59-2a93-493b-b9bd-60ae5e8e7f21.webp",
+            "title": "Starry Bean",
+            "text": "<p>Another VTuber Creative, with Personality to match the talent. Starry streams on Twitch and also comes highly recommended<br/><br/></p>",
+            "link_label": "Support Starry on Ko-Fi!",
+            "link": "https://ko-fi.com/starry_bean_vt"
+          }
+        },
+        "ca51b50e-b19b-4660-a9fd-52e8f092ce66": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ecd9wVM8QALhkm5AVM1YyCebTMQUdEnL0sCYqN3XlbtGOWE2IHBKCsAKipuDlsKyjPxeRGushg_s900-c-k-c0x00ffffff-no-rj-3720109653.jpg",
+            "title": "Beastman8890",
+            "text": "<p>A pillar of support to the community for over 3 years and a paragon artist. Incredibly underrated.</p>",
+            "link_label": "Check out Beastman8890",
+            "link": "https://twitter.com/Beastman8890"
+          }
+        },
+        "3297081e-dd0d-435b-96fe-b3b934f9ccc9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/profile_sakuriaz_1.png",
+            "title": "Sakuri",
+            "text": "<p>Say Hi to Sakuri !! Creative artist and art influencer, Sakuri creates incredible content, art  and reviews. Please follow them! pls 🥺🥺🥺</p>",
+            "link_label": "Check out Sakuri!",
+            "link": "https://beacons.ai/sakuriaz"
+          }
+        },
+        "template--16911548842282__8e566ec4-772f-460a-898e-91d21fb323e9-16682159177a2e402d-0": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/19_TEM_RGB_SmolLogo_FC_4x_1.png",
+            "title": "The Eclectic Menagerie",
+            "text": "<p>For the Miniature Figure Painter Enthusiast - Go Check This Awesome Shop out, I Love Steenie and gang and So should You!!</p>",
+            "link_label": "Check Them Out",
+            "link": "https://www.eclecticmshop.com/"
+          }
+        },
+        "template--16911548842282__8e566ec4-772f-460a-898e-91d21fb323e9-16682159177a2e402d-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/0r81MFkJQNKakc9LqRUn_u8i296XuNVwOkWAf_1.jpg",
+            "title": "JustJenCreative",
+            "text": "<p>Jennifer Like Me, Is a Creative Artist and Illustrator, She has alot of amazing skill and talent and undoubtably worthy of this slot.<br/></p>",
+            "link_label": "Check Out JustJenCreative!",
+            "link": "https://justjenstudio.com"
+          }
+        },
+        "d6c48c44-e87b-4c21-abe6-957980c7cbe8": {
+          "type": "column",
+          "settings": {
+            "title": "???",
+            "text": "<p>This could be you</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "94822225-c7c5-46ba-ad44-a8992560865d",
+        "ca51b50e-b19b-4660-a9fd-52e8f092ce66",
+        "3297081e-dd0d-435b-96fe-b3b934f9ccc9",
+        "template--16911548842282__8e566ec4-772f-460a-898e-91d21fb323e9-16682159177a2e402d-0",
+        "template--16911548842282__8e566ec4-772f-460a-898e-91d21fb323e9-16682159177a2e402d-1",
+        "d6c48c44-e87b-4c21-abe6-957980c7cbe8"
+      ],
+      "settings": {
+        "title": "Niyo's Creative Besties",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "circle",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "background-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 72,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "d1c177f0-8193-4b93-aaad-98b0048d5042",
+    "main",
+    "8e566ec4-772f-460a-898e-91d21fb323e9"
+  ]
+}

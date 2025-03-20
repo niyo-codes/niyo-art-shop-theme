@@ -1,0 +1,337 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "e1fd9e3e-479d-4d9e-b9ba-94ec05b1f166": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16914244108586__e1fd9e3e-479d-4d9e-b9ba-94ec05b1f166-1668210847f9dddd19-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Commission Status: Queuing",
+            "heading_size": "h1"
+          }
+        },
+        "template--16914244108586__e1fd9e3e-479d-4d9e-b9ba-94ec05b1f166-1668210847f9dddd19-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The quickest and easiest way is to<br/><a href=\"https://docs.google.com/document/d/1LQdAW4tOeX77BnWyu1Z8n19MXXPF9LrhrrEn-dH-bzI\">Use This Commission Request form</a> and <a href=\"mailto:hello@niyo.art\" target=\"_blank\" title=\"mailto:hello@niyo.art\">e-mail Me</a> at hello@niyo.art... I will reply as soon as I am freely available!</p>"
+          }
+        },
+        "526a32a5-f4ee-498a-a3bd-810266fcc78e": {
+          "type": "button",
+          "settings": {
+            "button_label": "Progress Tracker",
+            "button_link": "https://trello.com/b/4nYbbOro/commission-queue-and-progress",
+            "button_style_secondary": true,
+            "button_label_2": "Time slots",
+            "button_link_2": "https://calendar.google.com/calendar/u/1/r?cid=a25lYWxpZWFydHNAZ21haWwuY29t",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "template--16914244108586__e1fd9e3e-479d-4d9e-b9ba-94ec05b1f166-1668210847f9dddd19-0",
+        "template--16914244108586__e1fd9e3e-479d-4d9e-b9ba-94ec05b1f166-1668210847f9dddd19-1",
+        "526a32a5-f4ee-498a-a3bd-810266fcc78e"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 52
+      }
+    },
+    "96b3e78b-74a9-4424-afb5-b1ac186ef024": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18058753802538__96b3e78b-74a9-4424-afb5-b1ac186ef024-168541205779572c12-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Art-Comm-169.png",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "background-1"
+          }
+        },
+        "template--18058753802538__96b3e78b-74a9-4424-afb5-b1ac186ef024-168541205779572c12-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Twitch-Comms-Menu-169.png",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "template--18058753802538__96b3e78b-74a9-4424-afb5-b1ac186ef024-168541205779572c12-0",
+        "template--18058753802538__96b3e78b-74a9-4424-afb5-b1ac186ef024-168541205779572c12-1"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Art Commission Price Guides"
+      }
+    },
+    "1fc6af78-5b7b-4635-8f07-5c7816cfa3dd": {
+      "type": "image-with-text",
+      "blocks": {
+        "0c38f18e-be8f-42f4-b41f-e36e6a56d0e4": {
+          "type": "heading",
+          "settings": {
+            "heading": "I Will Draw",
+            "heading_size": "h1"
+          }
+        },
+        "b6f6817a-5165-4365-b71d-397c50dd0b3c": {
+          "type": "text",
+          "settings": {
+            "text": "<h3></h3><p>🟢 Original Characters, Personal Avatar,Game Characters/Emotes General Biped/Humanoid\\<br/>real people, Animals, props, backdrops/backgrounds,</p><p></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "0c38f18e-be8f-42f4-b41f-e36e6a56d0e4",
+        "b6f6817a-5165-4365-b71d-397c50dd0b3c"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/art-supplies-and-painting.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "right",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4d8c8878-3038-4024-841b-862729c46b82": {
+      "type": "image-with-text",
+      "blocks": {
+        "fb1621a3-3f2f-4bc4-9f5b-573d214449de": {
+          "type": "heading",
+          "settings": {
+            "heading": "I May Draw",
+            "heading_size": "h1"
+          }
+        },
+        "3b7af32a-209d-4706-8a0b-2a0541acf71d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>🟠Anthropomorph, Mild NSFW/ Risque (Nothing of a Sexual Nature)</p><p></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "fb1621a3-3f2f-4bc4-9f5b-573d214449de",
+        "3b7af32a-209d-4706-8a0b-2a0541acf71d"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/rusty-green-tin-graphitti-wall-texture.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d87758d4-cef1-4252-a2dc-fb5580f46db8": {
+      "type": "image-with-text",
+      "blocks": {
+        "536017b6-f98c-4735-b50a-2be3e7098f01": {
+          "type": "heading",
+          "settings": {
+            "heading": "I Will Not Draw",
+            "heading_size": "h1"
+          }
+        },
+        "53f35c6b-a1aa-45fe-bcc5-7d5776ea0d1f": {
+          "type": "text",
+          "settings": {
+            "text": "<h3></h3><p>🔴NSFW/porn, gore, hyper-realism or hyper-detailed (quite literally hyper-anything)<br/>Vore, Explicit Nudity.. that includes Rule-34<br/>Other possible concepts that I feel is outside my level of expertise.</p><p></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "536017b6-f98c-4735-b50a-2be3e7098f01",
+        "53f35c6b-a1aa-45fe-bcc5-7d5776ea0d1f"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/garbage-piled-in-the-city.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "right",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3b5b4a44-ca9f-4496-8190-8a5f0c925bca": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16914244108586__3b5b4a44-ca9f-4496-8190-8a5f0c925bca-166821084702bf611a-0": {
+          "type": "column",
+          "settings": {
+            "title": "Streamer Starter Kit - Free",
+            "text": "<p>Starting out on your Streaming Adventure and need a Package deal?<br/><br/><strong>Free Kit for new Affiliates!<br/></strong><br/><strong>Restrictions:<br/></strong>Must be Newly Affiliated within 4 Weeks and Streaming for less than 6 Months. (Free Kits are done inbetween Paid commissions)</p><p><br/></p>",
+            "link_label": "Start Your Adventure",
+            "link": "https://docs.google.com/document/d/1LQdAW4tOeX77BnWyu1Z8n19MXXPF9LrhrrEn-dH-bzI"
+          }
+        },
+        "template--16914244108586__3b5b4a44-ca9f-4496-8190-8a5f0c925bca-166821084702bf611a-1": {
+          "type": "column",
+          "settings": {
+            "title": "Affiliate Rebrand - $250-$500",
+            "text": "<p>Looking to kill that dead feeling Channel Art? Or maybe just a Channel refresh, either way.<br/><br/><strong>I Can help with that!<br/><br/>Restrictions:<br/></strong>Must be Affiliated and Streaming for more than 6 months and no more than 12 months!<br/>(Lots of Emotes take alot of time!)<br/></p><p></p><p><br/></p>",
+            "link_label": "Brand Your Channel!",
+            "link": "shopify://collections/branding"
+          }
+        },
+        "template--16914244108586__3b5b4a44-ca9f-4496-8190-8a5f0c925bca-166821084702bf611a-2": {
+          "type": "column",
+          "settings": {
+            "title": "Partner Rebrand - PoA",
+            "text": "<p>So You're a Bigshot now, Congratulations! Or Maybe You're making a redebut???<br/><br/><strong>Let's do it.<br/><br/>Restrictions:<br/></strong>Must be Partnered and Streaming for more than 12 Months and no more than 24 (Bulk Commissions are the most Time consuming!)<br/><br/></p>",
+            "link_label": "Contact Me for details!",
+            "link": "https://docs.google.com/document/d/1LQdAW4tOeX77BnWyu1Z8n19MXXPF9LrhrrEn-dH-bzI"
+          }
+        }
+      },
+      "block_order": [
+        "template--16914244108586__3b5b4a44-ca9f-4496-8190-8a5f0c925bca-166821084702bf611a-0",
+        "template--16914244108586__3b5b4a44-ca9f-4496-8190-8a5f0c925bca-166821084702bf611a-1",
+        "template--16914244108586__3b5b4a44-ca9f-4496-8190-8a5f0c925bca-166821084702bf611a-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "f04f63f4-dedf-43ff-98f8-5d2ed7f02d18": {
+      "type": "rich-text",
+      "blocks": {
+        "7e6918e7-864f-4da6-ad03-1281f13e965e": {
+          "type": "heading",
+          "settings": {
+            "heading": "Starting Your Commission",
+            "heading_size": "h1"
+          }
+        },
+        "45f66b0b-900a-46d6-8177-1b838101136b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If You're happy with what You've seen, You can click the button below and begin the process...</p>"
+          }
+        },
+        "f95b98c9-56c3-412c-8b4d-096f669568cc": {
+          "type": "button",
+          "settings": {
+            "button_label": "Request a Commission",
+            "button_link": "https://www.niyo.art/#commission-menu",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "7e6918e7-864f-4da6-ad03-1281f13e965e",
+        "45f66b0b-900a-46d6-8177-1b838101136b",
+        "f95b98c9-56c3-412c-8b4d-096f669568cc"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "e1fd9e3e-479d-4d9e-b9ba-94ec05b1f166",
+    "96b3e78b-74a9-4424-afb5-b1ac186ef024",
+    "1fc6af78-5b7b-4635-8f07-5c7816cfa3dd",
+    "4d8c8878-3038-4024-841b-862729c46b82",
+    "d87758d4-cef1-4252-a2dc-fb5580f46db8",
+    "3b5b4a44-ca9f-4496-8190-8a5f0c925bca",
+    "main",
+    "f04f63f4-dedf-43ff-98f8-5d2ed7f02d18"
+  ]
+}

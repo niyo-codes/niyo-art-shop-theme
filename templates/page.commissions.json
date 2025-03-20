@@ -1,0 +1,99 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "30429c02-5d77-41cd-a6d0-560b8dd51f74": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16905882304810__30429c02-5d77-41cd-a6d0-560b8dd51f74-166812133347bb1584-0": {
+          "type": "column",
+          "settings": {
+            "title": "Before You Commission...",
+            "text": "<p>Commission Status will be updated if Comms are Open/Full/Queueing or Closed...<br/><br/>Please make sure you read and agree to any <a href=\"/pages/terms-of-service\" target=\"_blank\" title=\"Terms of Service\">Terms of Service</a> before submitting your Request!<br/><br/>To begin your commission please <a href=\"https://docs.google.com/document/d/1LQdAW4tOeX77BnWyu1Z8n19MXXPF9LrhrrEn-dH-bzI/edit?usp=sharing\" target=\"_blank\" title=\"https://docs.google.com/document/d/1LQdAW4tOeX77BnWyu1Z8n19MXXPF9LrhrrEn-dH-bzI/edit?usp=sharing\">follow these instructions</a>.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "bb2436b7-1c0c-4e0d-a5ac-10d348b2f0fa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/commission-png_def577eb-0f19-4f49-83aa-b4285db206f7.png",
+            "title": "Ready to Start When You are.",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16905882304810__30429c02-5d77-41cd-a6d0-560b8dd51f74-166812133347bb1584-1": {
+          "type": "column",
+          "settings": {
+            "title": "Working with Your Comm...",
+            "text": "<p>Before commencing work - I will double check and confirm every detail with You beforehand...<br/><br/>During Your Commission I Will update Your Commission status according to the <a href=\"https://trello.com/b/4nYbbOro/commission-queue-and-progress\" title=\"https://trello.com/b/4nYbbOro/commission-queue-and-progress\">progress tracker</a> and inform you of any changes or expectations.<br/><br/>Take Your Time with finding a deadline comfortable to work with.<br/><br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16905882304810__30429c02-5d77-41cd-a6d0-560b8dd51f74-166812133347bb1584-2": {
+          "type": "column",
+          "settings": {
+            "title": "Finishing Your Commission...",
+            "text": "<p></p><p>So Your Commission is now finished, What Next?<br/><br/>Whether You're a big brand sponsored Partner, or a new upcoming star-riser.<br/><br/>I always follow up on projects and look for feedback, to find out what could be better or if You're happy with the work.<br/><br/>Feel free to Share your Finalised result on Social Media and remember to tag me or leave a link to my <a href=\"https://twitter.com/Niiyo_arts\" target=\"_blank\" title=\"Niyo Art's on Twitter ( X )\">Twitter</a>.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16905882304810__30429c02-5d77-41cd-a6d0-560b8dd51f74-166812133347bb1584-0",
+        "bb2436b7-1c0c-4e0d-a5ac-10d348b2f0fa",
+        "template--16905882304810__30429c02-5d77-41cd-a6d0-560b8dd51f74-166812133347bb1584-1",
+        "template--16905882304810__30429c02-5d77-41cd-a6d0-560b8dd51f74-166812133347bb1584-2"
+      ],
+      "settings": {
+        "title": "Commissions Status: Open",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "d3dcdaec-86c3-46d1-8d45-4185999e8eb7": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "30429c02-5d77-41cd-a6d0-560b8dd51f74",
+    "main",
+    "d3dcdaec-86c3-46d1-8d45-4185999e8eb7"
+  ]
+}

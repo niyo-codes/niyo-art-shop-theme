@@ -1,0 +1,256 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "8512091d-195c-49b2-908c-edc819638cb4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16907238539562__8512091d-195c-49b2-908c-edc819638cb4-166813799292e6345a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FAQ: About the Shop",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--16907238539562__8512091d-195c-49b2-908c-edc819638cb4-166813799292e6345a-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "f7d5e372-15d2-468f-ac62-7404cc472478": {
+      "type": "multicolumn",
+      "blocks": {
+        "344a0820-04b0-4d58-837d-7a565a053160": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Important Info!</strong>",
+            "text": "<p>This is a small business web-shop operated by one individual and many helpful hands. It's important to remind You, the visitor - that responses may be delayed and in extremely rare cases - something happens with Your order.. <br/>I, Niyo aim to reduce this possibility and minimize it's impact on your experience..<br/>Thank You 🙇</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "344a0820-04b0-4d58-837d-7a565a053160"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "c4e86405-4f43-44a0-a9ed-77edabe78495": {
+      "type": "multicolumn",
+      "blocks": {
+        "3db3a64e-e103-44af-9d60-6c5888cdf8b9": {
+          "type": "column",
+          "settings": {
+            "title": "When Can I expect My Order?",
+            "text": "<p>Some Order's are completed by hand - other's however are sourced and fulfilled - It may take anywhere between 3-5 days production (since we order small) and an additional 5-20 days for delivery..</p><p></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "2aecf8a0-09ff-4b14-a9af-b271b06fb232": {
+          "type": "column",
+          "settings": {
+            "title": "How do I Start a Commission?",
+            "text": "<p>Visit the <a href=\"/pages/commission-prices\" title=\"Commission Details\">\"Starting a Commission\"</a> page. There You will see 4 panels with all the information needed to get started.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "3db3a64e-e103-44af-9d60-6c5888cdf8b9",
+        "2aecf8a0-09ff-4b14-a9af-b271b06fb232"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "5bcbe8e6-83df-4648-93f4-6f90576df53e": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16907238539562__5bcbe8e6-83df-4648-93f4-6f90576df53e-1668134470fb55dc66-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>I haven't actually got any Frequently Asked Questions but when I do.. I'll be sure to let you know..</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16907238539562__5bcbe8e6-83df-4648-93f4-6f90576df53e-1668134470fb55dc66-1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "How long do you take to finish a commission?",
+            "text": "<p>Context is really important, for a basic streamer package (5x emotes, 5x overlays, panels and a banner) It can take anywhere between a week  to anywhere up to a month if working on multiple packs..</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "9ad4c56c-d1a5-49f7-b2bd-73f9faa6d2e5": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "What Tablet/ Software do You use?",
+            "text": "<p>I am currently working on an XP-Pen 16.5\" Drawing Tablet, and My go-to software is Krita..</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "31809c78-6f0b-43f4-8dbc-f40802eb33b8": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "How did you get into Art?",
+            "text": "<p>I've always loved Art, even applied to Art School on a Recommendation.. I have always had a fascination with Character and Environmental Design, Even as an indie game dev, there's been many projects that I have emphatically volunteered as the artist..</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "303f7831-23df-47fc-975d-68200d60491c": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Why do you do Free Comms??",
+            "text": "<p>I originally started my digital adventure on a Student License - Meaning nothing I could create, could be sold (even as a tipped request)… I wanted my own way of supporting new creators and connect with others at the same time... With the hope of one-day making this my job..</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ed62b3a4-4828-46e0-a71d-18628d0fe28c": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Do You Still Accept Ko-fi Requests?",
+            "text": "<p>Absolutely.. my wait list is clear, my Queues are clear.. At this moment in Time I just want to improve and hone  what I know I've been hiding I can do for a long time..</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16907238539562__5bcbe8e6-83df-4648-93f4-6f90576df53e-1668134470fb55dc66-0",
+        "template--16907238539562__5bcbe8e6-83df-4648-93f4-6f90576df53e-1668134470fb55dc66-1",
+        "9ad4c56c-d1a5-49f7-b2bd-73f9faa6d2e5",
+        "31809c78-6f0b-43f4-8dbc-f40802eb33b8",
+        "303f7831-23df-47fc-975d-68200d60491c",
+        "ed62b3a4-4828-46e0-a71d-18628d0fe28c"
+      ],
+      "settings": {
+        "title": "General FAQs",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "dc72e707-83a1-423a-88db-a6c82bb715d0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16907238539562__dc72e707-83a1-423a-88db-a6c82bb715d0-1668134470bdd59caf-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Is That Everything??",
+            "heading_size": "h1"
+          }
+        },
+        "template--16907238539562__dc72e707-83a1-423a-88db-a6c82bb715d0-1668134470bdd59caf-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use the contact form below if you have any questions, or emote ideas/suggestions for me. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16907238539562__dc72e707-83a1-423a-88db-a6c82bb715d0-1668134470bdd59caf-0",
+        "template--16907238539562__dc72e707-83a1-423a-88db-a6c82bb715d0-1668134470bdd59caf-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 68
+      }
+    }
+  },
+  "order": [
+    "main",
+    "8512091d-195c-49b2-908c-edc819638cb4",
+    "f7d5e372-15d2-468f-ac62-7404cc472478",
+    "c4e86405-4f43-44a0-a9ed-77edabe78495",
+    "5bcbe8e6-83df-4648-93f4-6f90576df53e",
+    "dc72e707-83a1-423a-88db-a6c82bb715d0",
+    "form"
+  ]
+}

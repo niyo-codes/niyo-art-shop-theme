@@ -1,0 +1,137 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "537ea1f9-c2d3-4ad5-84c7-1502fdc4ca0c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16906355114282__537ea1f9-c2d3-4ad5-84c7-1502fdc4ca0c-16681273489fce55e5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Putting You First..",
+            "heading_size": "h1"
+          }
+        },
+        "template--16906355114282__537ea1f9-c2d3-4ad5-84c7-1502fdc4ca0c-16681273489fce55e5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Please read the T&Cs before requesting!</strong><br/><br/>Reading them protects You from any undesired stress and ensures a smooth and relaxed artist-client relationship.<br/>If you disagree with any of the terms, it may be better to find another artist...</p>",
+            "text_style": "body"
+          }
+        },
+        "template--16906355114282__537ea1f9-c2d3-4ad5-84c7-1502fdc4ca0c-16681273489fce55e5-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Starting a Commission",
+            "button_link": "shopify://pages/commission-prices",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16906355114282__537ea1f9-c2d3-4ad5-84c7-1502fdc4ca0c-16681273489fce55e5-0",
+        "template--16906355114282__537ea1f9-c2d3-4ad5-84c7-1502fdc4ca0c-16681273489fce55e5-1",
+        "template--16906355114282__537ea1f9-c2d3-4ad5-84c7-1502fdc4ca0c-16681273489fce55e5-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Screenshot_2025-02-23_221508.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b19b744f-9f53-422d-81c7-d8189b4fec6e": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16906355114282__b19b744f-9f53-422d-81c7-d8189b4fec6e-1668127303e220a988-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Terms and Conditions",
+            "icon": "ruler",
+            "row_content": "<p>💫 I work on commissions Mondays, Wednesday's and Friday's , not including scheduled Rest-Days, Moments I am unwell, or Holidays.<br/><br/>💫 Any Art Commissioned will be provided within the Commission specifics and pricing.<br/><br/>💫 Updates will be provided when and as they are completed operating on a \"<a href=\"https://trello.com/c/5DezuyzK/32-traffic-lights\" target=\"_blank\" title=\"https://trello.com/c/5DezuyzK/32-traffic-lights\">Traffic Light</a>\" basis.<br/></p><p>💫 Final Commissions will be sent via the Platform requested (Platform specific). when finished, <br/><br/>💫 External Commissions will be uploaded to WeTransfer File Hosting  as a .zip file containing a preview image and an additional password protected  .zip file of the FINAL request.<br/><br/>💫 Delivery will be made on completion and for External Comms; will the password for the archived Final also be sent.<br/><br/>💫 I reserve the right when presented with a request of significant detail and difficulty to scale pricing accordingly.<br/><br/>💫 Requesting me as an exclusive emote artist in-between Commissions will be treated as a Rush Order and priced accordingly..<br/><br/>💫 I withhold the right to inform you of offering the request to a trusted artist; on the sole basis that it's outside my ability or past a scheduled deadline, a Full Refund will be made if You choose otherwise.<br/><br/>💫 Do not make a request for a specific style.. Style is something unique and indepedant to each Artist, Commission me because you like mine and expect nothing less.<br/><br/>💫 Colour spacing may vary, if you prefer strict Color grading let me know.<br/><br/>💫 Refunds will not be considered once sketching has started. PayPal chargebacks will result in blacklisting from further requests<br/><br/>💫 By making a request you accept all Terms of Services specified here.</p>",
+            "page": ""
+          }
+        },
+        "template--16906355114282__b19b744f-9f53-422d-81c7-d8189b4fec6e-1668127303e220a988-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Invoicing and Payments",
+            "icon": "price_tag",
+            "row_content": "<p>💫 Invoicing/Payments will be made through PayPal or Stripe<br/>(External Commission Requests on other Services will made on those specific platforms..)</p><p><br/>💫A 50% Deposit will guarantee you a commission slot if space is available otherwise you will be placed in queue on the waitlist on <a href=\"https://trello.com/b/4nYbbOro/commission-queue-and-progress\" target=\"_blank\" title=\"https://trello.com/b/4nYbbOro/commission-queue-and-progress\">Trello</a>.<br/><br/>💫 If payment isn't made within 48hrs of the request I may offer a payment plan suitable for us both...<br/><br/>💫 In cases of overdue consideration towards initial deposits or payment plans will result in slot reschedule so I can work on more demanding commissions.</p>",
+            "page": ""
+          }
+        },
+        "template--16906355114282__b19b744f-9f53-422d-81c7-d8189b4fec6e-1668127303e220a988-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Material Usage Policy",
+            "icon": "leather",
+            "row_content": "<p>💫 All Commissions for Personal/Non-Commercial use, cost is twice listed price, for commercial use...<br/>Please be sure to let Me know beforehand how it will be used.<br/><br/>💫 Sharing of any unwatermarked WIPs is discouraged (Sharing watermarked WIPs [OK] Remember to tag me @niyodoesart / @Niyo_arts)<br/><br/>💫I withhold all rights to any artwork commissioned and the right to share it on social media. (Message me in cases of pre-debut's or surprises)<br/><br/>💫 Please do not redistribute, edit, copy or reference without consent.</p><p><br/>💫 Model training for use with Image Generation and Machine Learning is Strictly forbidden.</p><p><br/>💫 Remember to credit me on social media or provide a link towards my Twitter page <a href=\"https://twitter.com/@niyodoesart\" target=\"_blank\" title=\"https://twitter.com/@niyodoesart\">@Niyodoesart</a> on any finished requests..<br/></p>",
+            "page": ""
+          }
+        },
+        "template--16906355114282__b19b744f-9f53-422d-81c7-d8189b4fec6e-1668127303e220a988-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Time and Creative Constraints",
+            "icon": "stopwatch",
+            "row_content": "<p>💫 I will go to great lengths to complete your commission and update frequently with any status changes regarding your commission..<br/><br/>💫 Updates will be made at each stage as stated in the <a href=\"/pages/commission-prices\" title=\"Commission Details - Niyo Art's\">Starting a Commission</a>, and is important that you monitor the Progress sheet on <a href=\"https://trello.com/b/4nYbbOro/commission-queue-and-progress\" title=\"https://trello.com/b/4nYbbOro/commission-queue-and-progress\">Trello..</a></p><p></p><p>💫Failure to launch - whether by non-payment or communication break-down I reserve the right to cancel your commission or progress on someone elses.</p><p><br/>💫 Rush Orders are available at twice (2x) the commission cost, It's important to inform me of this to ensure I have the time available..<br/><br/>-----Creative Constraints-----</p><p>Will Draw<br/>🟢 Original Characters, Personal Avatar, Game Characters/Emotes<br/>General Biped/Humanoid<br/>May Draw<br/>🟠Anthropomorph, Mild NSFW/ Risque (Nothing of a Sexual Nature)<br/>Will Not Draw<br/>🔴NSFW, Gore, Vore, Explicit Nudity, Hypermechanical, Hyper-Realistic<br/></p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16906355114282__b19b744f-9f53-422d-81c7-d8189b4fec6e-1668127303e220a988-0",
+        "template--16906355114282__b19b744f-9f53-422d-81c7-d8189b4fec6e-1668127303e220a988-2",
+        "template--16906355114282__b19b744f-9f53-422d-81c7-d8189b4fec6e-1668127303e220a988-1",
+        "template--16906355114282__b19b744f-9f53-422d-81c7-d8189b4fec6e-1668127303e220a988-3"
+      ],
+      "custom_css": [
+        ".collapsible-content-wrapper-narrow {max-width: 75% !important;}"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Terms of Service",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "container_color_scheme": "background-2",
+        "color_scheme": "background-1",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 24,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "537ea1f9-c2d3-4ad5-84c7-1502fdc4ca0c",
+    "b19b744f-9f53-422d-81c7-d8189b4fec6e"
+  ]
+}
